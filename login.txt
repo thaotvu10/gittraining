@@ -1,3 +1,1 @@
 This is a new log in file
-
-Create a new database for log in 
