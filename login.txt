@@ -1,3 +1,5 @@
 This is a new log in file
 
 Please enter your usename and password to log in
+
+Forgot password
